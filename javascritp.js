@@ -1,1 +1,0 @@
-alerta("hola como estan.");
