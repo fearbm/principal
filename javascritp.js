@@ -1,3 +1,5 @@
-alerta("hola como estas");
+alert("hola como estas");
 
-alerta("Bien y tu??");
+alert("Bien y tu??");
+
+
